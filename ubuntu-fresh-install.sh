@@ -15,6 +15,9 @@ sudo gdebi google-chrome-stable_current_amd64.deb
 sudo apt install chrome-gnome-shell -y
 sudo apt install gnome-tweak-tool -y
 
+# Installing wget and git
+sudo apt install wget git -y
+
 # Installing VLC
 sudo apt-get install vlc -y
 
